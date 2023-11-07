@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\BintoDec-DectoBin\BintoDec-DectoBin\bin\Debug\BintoDec-DectoBin.exe.config
+C:\Users\marsy\Source\Repos\BintoDec-DectoBin\BintoDec-DectoBin\bin\Debug\BintoDec-DectoBin.exe
+C:\Users\marsy\Source\Repos\BintoDec-DectoBin\BintoDec-DectoBin\bin\Debug\BintoDec-DectoBin.pdb
+C:\Users\marsy\Source\Repos\BintoDec-DectoBin\BintoDec-DectoBin\obj\Debug\BintoDec-DectoBin.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\BintoDec-DectoBin\BintoDec-DectoBin\obj\Debug\BintoDec_DectoBin.Form1.resources
+C:\Users\marsy\Source\Repos\BintoDec-DectoBin\BintoDec-DectoBin\obj\Debug\BintoDec_DectoBin.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\BintoDec-DectoBin\BintoDec-DectoBin\obj\Debug\BintoDec-DectoBin.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\BintoDec-DectoBin\BintoDec-DectoBin\obj\Debug\BintoDec-DectoBin.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\BintoDec-DectoBin\BintoDec-DectoBin\obj\Debug\BintoDec-DectoBin.exe
+C:\Users\marsy\Source\Repos\BintoDec-DectoBin\BintoDec-DectoBin\obj\Debug\BintoDec-DectoBin.pdb
+C:\Users\marsy\Source\Repos\BintoDec-DectoBin\BintoDec-DectoBin\obj\Debug\BintoDec-DectoBin.csproj.SuggestedBindingRedirects.cache
